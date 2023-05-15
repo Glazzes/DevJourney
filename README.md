@@ -10,3 +10,4 @@ What i'm going to write of:
 Check out any week:
 - [week 1](https://github.com/Glazzes/DevJourney/tree/main/week1)
 - [week 2](https://github.com/Glazzes/DevJourney/tree/main/week2)
+- [week 3](https://github.com/Glazzes/DevJourney/tree/main/week3)

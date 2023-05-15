@@ -5,3 +5,8 @@ Kubernetes is a very appealing technology to me, as stated by [Cloud Native Spri
 
 ### Week[2][6] Frontend Testing
 Today i decided to give a look to frontend testing, i'm used already to test my backend applications, but not so much on the frontend, i just of testing library and jest today, as well as mocking with `jest.fn`
+
+### Week[2][7] Kubernetes and gradle pre compiled plugins
+Created my first deployment and service, when creating a service by default this one will not expose your app to the world, therefore it must be forwarded by using `kubectl port-forward`, haven't reach out yet to the section when we talk of ingress.
+
+Gradle precompiled plugins can not have defined plugins within it's `[plugin-name].gradle`'s plugin definition, forcing the user to declare this plugins as implementation dependecies within pre compiled `build.gradle`'s dependencies closure, they require the full dependency name match the group, aritifact and version, luckily there's an easier way to tackle this program, they can be declared by following the next patern: "`[plugin-name]`:`[plugin.name].gradle.plugin`:`version`", for instance: `io.springframework.boot:io.springframework.boo.gradle.plugin:3.0.6`
