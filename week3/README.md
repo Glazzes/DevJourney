@@ -11,3 +11,8 @@ I still have the following questions:
 - How about configmaps and secrets on kuberntes? Can they change dynamically? How do spring applications will know about it?
 
 - How to refresh spring applications with actuator?
+
+### Week[3][5] GraalVM in the cloud
+Today i learnt of GraalVM and it's role in cloud native applications, by reducing the start up time as well as the overall size and memory consumption.
+
+I found pretty interesting that GraalVM can also convert `jar files` into `native images`
