@@ -16,3 +16,8 @@ I still have the following questions:
 Today i learnt of GraalVM and it's role in cloud native applications, by reducing the start up time as well as the overall size and memory consumption.
 
 I found pretty interesting that GraalVM can also convert `jar files` into `native images`
+
+### Week[3][7] Portfolio v2
+I just took a look at my portfolio and quickly said to myself "Hey! this is not what i am fully capable of", so i started to work on the new version, and it look way more profesional than v1, altough it's only half done.
+
+Hope it's complete by the end of next week.
