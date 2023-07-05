@@ -8,3 +8,11 @@ Aside from that project is going well, made the following changes:
 - Moved update active tab to shortcut themselves
 - Created an information modal
 - Refactored DatabaseService for reading readability
+
+### [8][2] Borealis and portfolio improvements
+Today i worked on my portfolio and borealis projects, doing the following things to borealis:
+- Add close tab shortcut modal appearing
+- Add feature to read text files and prompt its content to the code editor
+- Add functionality to create new tab button
+
+As for my portfolio, i fixed some typos as well as adding missing links.
