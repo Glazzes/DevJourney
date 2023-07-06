@@ -16,3 +16,11 @@ Today i worked on my portfolio and borealis projects, doing the following things
 - Add functionality to create new tab button
 
 As for my portfolio, i fixed some typos as well as adding missing links.
+
+### [8][3] Borealis today's work
+Today i keep working on Borealis project, I made the following changes:
+- Change to a dark time based style
+- Add animations to bottom sheet code result
+- Fix performance timer bugs like: not appearing after saving tab or milliseconds displaying decimal places
+
+I already deployed the project to Oracle Cloud but a couple of bugs made their way to Oracle Cloud, things I'll be fixing tomorrow.
