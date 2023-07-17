@@ -22,3 +22,17 @@ This is what I've learned so far:
   - Gin index is good for data containers just as arrays of `ts_vector` when it comes to full text search features
 - Outer keyword in join queries is useless just as much as right joins
 - Transactions can nest other transactions
+
+### [9][7] Relational Database Course 2
+I've keep on learning from the courses prevously mentioned in the last post, I've implementing this
+new knowlegde I've gotten on my last backend project
+
+so far I've learned of:
+- Best practices for relational mappings 
+- Best practices for relational mappinss for hibernate
+- A better general knowledge of Spring Data JPA
+
+Aside from all these new learned concepts, I've been working on flow's backend:
+- Created overall project structure
+- Created account registration
+- Peding send email verification account
